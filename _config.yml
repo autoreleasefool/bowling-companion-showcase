@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bowlingcompanion.ca" # the base hostname & protocol for your site
 twitter_username: coruon
 github_username:  joseph-roque
+author: Joseph Roque
 
 # Build settings
 markdown: kramdown
