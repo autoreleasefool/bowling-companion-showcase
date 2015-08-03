@@ -10,6 +10,10 @@
   color: #0D47A1;
 }
 
+.black {
+  color: #000;
+}
+
 .semi-transparent-bg {
   background-color:rgba(0,0,0,0.05);
 }
