@@ -1,0 +1,15 @@
+.primary-color {
+  color: #67B2EC;
+}
+
+.secondary-color {
+  color: #4DA2E4;
+}
+
+.tertiary-color {
+  color: #0D47A1;
+}
+
+.semi-transparent-bg {
+  background-color:rgba(0,0,0,0.05);
+}
