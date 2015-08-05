@@ -18,30 +18,21 @@
   background-color:rgba(0,0,0,0.05);
 }
 
-.pull-right {
+.right-aligned-flex {
   list-style: none;
   margin: 0;
-
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-
-  -webkit-flex-flow: row wrap;
-  justify-content: flex-end;
-  align-items: center;
+  float:right;
 }
 
 .social-icon {
   width:48px;
   height:48px;
-  margin: 8px 0 0 8px;
+  padding: 8px 0 0 8px;
 }
 
 .social-icon-tall {
   height:60px;
-  margin: 8px 0 0 8px;
+  padding: 8px 0 0 8px;
 }
 
 .max-col-width {
