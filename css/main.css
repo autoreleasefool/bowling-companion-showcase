@@ -44,3 +44,8 @@
 .tall-bottom {
   margin-bottom:80px;
 }
+
+img.google-play {
+  width: 220px;
+  height: auto;
+}
