@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   to help make yourself a better bowler.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bowlingcompanion.ca" # the base hostname & protocol for your site
-twitter_username: coruon
-github_username:  josephroque
+twitter_username: josephroqueca
+github_username:  josephroqueca
 author: Joseph Roque
 
 # Build settings
